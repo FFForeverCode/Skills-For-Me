@@ -1,0 +1,14 @@
+{
+  "name": "skills-for-me",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal skills repository with local install scripts for Codex/Claude/Agents runtimes",
+  "license": "UNLICENSED",
+  "scripts": {
+    "skills:list": "bash scripts/list-skills.sh",
+    "skills:link": "bash scripts/link-skills.sh",
+    "skills:install": "bash scripts/install-skills.sh",
+    "skills:uninstall": "bash scripts/uninstall-skills.sh"
+  },
+  "packageManager": "npm@10.9.4"
+}
