@@ -176,5 +176,6 @@ npm run skills:link
 - **[diagnosing-bugs](./skills/engineer/diagnosing-bugs/SKILL.md)**
 - **[improve-codebase-architecture](./skills/engineer/improve-codebase-architecture/SKILL.md)**
 - **[write-TRD](./skills/engineer/write-TRD/SKILL.md)**
+- **[Karpathy-guidelines](./skills/engineer/Karpathy-guidelines/SKILL.md)**
 - **[Mock-Interview](./skills/engineer/Mock-Interview/SKILL.md)**
 - **[Mock-Interview-QuestionList-Generation](./skills/engineer/Mock-Interview-QuestionList-Generation/SKILL.md)**
