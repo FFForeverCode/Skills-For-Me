@@ -179,3 +179,4 @@ npm run skills:link
 - **[Karpathy-guidelines](./skills/engineer/Karpathy-guidelines/SKILL.md)**
 - **[Mock-Interview](./skills/engineer/Mock-Interview/SKILL.md)**
 - **[Mock-Interview-QuestionList-Generation](./skills/engineer/Mock-Interview-QuestionList-Generation/SKILL.md)**
+- **[frontend-design](./skills/engineer/front/SKILL-CN.md)**
