@@ -152,7 +152,7 @@ If needed, remove the same skill from other runtimes too:
 
 ```bash
 rm -rf ~/.agents/skills/code-review
-rm -rf ~/.claude/skills/code-review
+rm -rf ~/.claude-code记忆架构.md/skills/code-review
 ```
 
 ## Usage

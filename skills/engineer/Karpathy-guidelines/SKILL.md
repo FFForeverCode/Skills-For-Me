@@ -45,17 +45,17 @@ curl -fsSL \
 ### 2) 安装到 Claude Code
 
 ```bash
-mkdir -p ~/.claude/skills/karpathy-guidelines
+mkdir -p ~/.claude-code记忆架构.md/skills/karpathy-guidelines
 curl -fsSL \
   https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/skills/karpathy-guidelines/SKILL.md \
-  -o ~/.claude/skills/karpathy-guidelines/SKILL.md
+  -o ~/.claude-code记忆架构.md/skills/karpathy-guidelines/SKILL.md
 ```
 
 ### 3) 验证安装
 
 ```bash
 ls -la ~/.codex/skills/karpathy-guidelines/SKILL.md
-ls -la ~/.claude/skills/karpathy-guidelines/SKILL.md
+ls -la ~/.claude-code记忆架构.md/skills/karpathy-guidelines/SKILL.md
 ```
 
 ## 可选：接入仓库 AGENTS.md

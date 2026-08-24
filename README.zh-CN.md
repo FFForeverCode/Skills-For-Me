@@ -152,7 +152,7 @@ rm -rf ~/.codex/skills/code-review
 
 ```bash
 rm -rf ~/.agents/skills/code-review
-rm -rf ~/.claude/skills/code-review
+rm -rf ~/.claude-code记忆架构.md/skills/code-review
 ```
 
 ## 使用
