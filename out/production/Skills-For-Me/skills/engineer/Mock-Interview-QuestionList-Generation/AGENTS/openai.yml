@@ -1,0 +1,3 @@
+interface:
+  display_name: "Interview Question Generator"
+  short_description: "Generate deep-dive mock interview questions based on your resume and projects"

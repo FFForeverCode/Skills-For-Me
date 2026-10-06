@@ -1005,9 +1005,7 @@ Prefetch
 ```text
 User Query
      │
-     ├──────────────→ 
-     
-     Main Agent
+     ├──────────────→ Main Agent
      │
      └──────────────→ Prefetch
                            │
